@@ -284,7 +284,7 @@ echo -e "$COLOR1 $NC Client Name : $Name"
 echo -e "$COLOR1 $NC License     : $certificate days"
 echo -e "$COLOR1└─────────────────────────────────────────────────┘$NC"
 echo -e "$COLOR1┌────────────────────── BY ───────────────────────┐${NC}"
-echo -e "$COLOR1 ${NC}                • HAYOSIASTORE •                 $COLOR1 $NC"
+echo -e "$COLOR1 ${NC}                • Ghafoor Ali VPN-STORE •                 $COLOR1 $NC"
 echo -e "$COLOR1└─────────────────────────────────────────────────┘${NC}"
 echo -e ""
 echo -ne " Select menu : "; read opt
